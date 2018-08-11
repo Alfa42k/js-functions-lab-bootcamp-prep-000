@@ -1,5 +1,5 @@
 var name = "Echo"
-var holiday = "New Year"
+var holiday = "New Years"
 var days = "42"
 
 function happyHolidays() {
